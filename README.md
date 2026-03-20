@@ -15,6 +15,6 @@ Joke Redux is a fun and dynamic web application built using **HTML5, Tailwind CS
 - **Redux** – for state management across the application
 
 # How to View
-Check out the project here . Browse jokes, favorite the ones you like, and enjoy the clean and interactive interface!
+Check out the project here https://joke-redux-eight.vercel.app/. Browse jokes, favorite the ones you like, and enjoy the clean and interactive interface!
 
 Thank you for visiting my Joke Redux project!
